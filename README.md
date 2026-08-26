@@ -1,5 +1,3 @@
-<!-- Profile README -->
-
 # Hi there, I'm Gibran Nahum González Santamaría 👋
 
 <div align="center">
