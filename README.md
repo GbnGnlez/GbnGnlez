@@ -29,10 +29,10 @@ Computer Engineer and Systems Enthusiast focused on software development, Linux 
 
 #### **DevOps, Tools & Systems**
 <p>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black" alt="Bash" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-Linux-gray?style=for-the-badge&logo=linux&logoColor=white&labelColor=yellow" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=green" alt="Bash" />
+  <img src="https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git&logoColor=white&labelColor=orange" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-gray?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black" alt="GitHub Actions" />
 </p>
 
 ---
