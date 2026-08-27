@@ -17,14 +17,14 @@ Computer Engineer and Systems Enthusiast focused on software development, Linux 
 
 #### **Languages & Markup**
 <p>
-  ![Static Badge](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c&logoColor=white&labelColor=blue)
-  ![Static Badge](https://img.shields.io/badge/C%2B%2B-gray?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=blue)
-  ![Static Badge](https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=blue)
-  ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)
-  ![Static Badge](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=red)
-  ![Static Badge](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue)
-  ![Static Badge](https://img.shields.io/badge/Nix-gray?style=for-the-badge&logo=nixos&logoColor=white&labelColor=blue)
-  ![Static Badge](https://img.shields.io/badge/YAML-gray?style=for-the-badge&logo=yaml&logoColor=white&labelColor=red)
+  <img src="https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c&logoColor=white&labelColor=blue" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-gray?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=blue" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=c%23&logoColor=white&labelColor=blue" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=red" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue" alt="SQL" />
+  <img src="https://img.shields.io/badge/Nix-gray?style=for-the-badge&logo=nixos&logoColor=white&labelColor=blue" alt="Nix" />
+  <img src="https://img.shields.io/badge/YAML-gray?style=for-the-badge&logo=yaml&logoColor=white&labelColor=red" alt="YAML" />
 </p>
 
 #### **DevOps, Tools & Systems**
