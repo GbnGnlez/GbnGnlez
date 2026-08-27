@@ -17,14 +17,14 @@ Computer Engineer and Systems Enthusiast focused on software development, Linux 
 
 #### **Languages & Markup**
 <p>
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&labelColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&labelColor=black" alt="C++" />
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&labelColor=black" alt="C#" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&labelColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&labelColor=black" alt="Java" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&labelColor=black" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Nix-5277C3?logo=nixos&logoColor=white&labelColor=black" alt="Nix" />
-  <img src="https://img.shields.io/badge/-YAML-CB171E?logo=yaml&logoColor=white&labelColor=black" alt="YAML" />
+  ![Static Badge](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c&logoColor=white&labelColor=blue)
+  ![Static Badge](https://img.shields.io/badge/C%2B%2B-gray?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=blue)
+  ![Static Badge](https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=blue)
+  ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)
+  ![Static Badge](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=red)
+  ![Static Badge](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue)
+  ![Static Badge](https://img.shields.io/badge/Nix-gray?style=for-the-badge&logo=nixos&logoColor=white&labelColor=blue)
+  ![Static Badge](https://img.shields.io/badge/YAML-gray?style=for-the-badge&logo=yaml&logoColor=white&labelColor=red)
 </p>
 
 #### **DevOps, Tools & Systems**
